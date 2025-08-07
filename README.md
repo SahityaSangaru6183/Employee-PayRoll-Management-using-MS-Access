@@ -39,12 +39,16 @@ This project is a **Microsoft Access-based Salary Management System** that helps
 ## 📂 File Structure
 
 /Salary DataBase.accdb
+
 ├── Tables
 │ └── Employees
+
 ├── Forms
 │ └── EmployeeForm, SalaryForm
+
 ├── Queries
 │ └── Salary Reports, Filtered Lists
+
 ├── VBA Modules
 │ └── AddRecord, Navigation, Validations
 
