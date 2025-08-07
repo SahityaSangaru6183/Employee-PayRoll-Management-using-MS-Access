@@ -68,7 +68,7 @@ Ideal for HR teams, small businesses, or educational demonstrations needing a **
 
 ## 📸 Screenshots
 
-![Main Form Screenshot](https://raw.githubusercontent.com/your-username/your-repo/main/form_view.png)
+![Main Form Screenshot](https://raw.githubusercontent.com/SahityaSangaru6183/Employee-PayRoll-Management-using-MS-Access/refs/heads/main/Screenshot%202025-08-07%20125813.png)
 
 
 ---
