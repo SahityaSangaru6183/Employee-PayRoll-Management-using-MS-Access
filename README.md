@@ -68,16 +68,8 @@ Ideal for HR teams, small businesses, or educational demonstrations needing a **
 
 ## 📸 Screenshots
 
-### 🖥️ Main Employee Form  
-![Employee Form](form_view.png)
+![Main Form Screenshot](https://raw.githubusercontent.com/your-username/your-repo/main/form_view.png)
 
-### 💻 VBA Code Module  
-![VBA Code](vba_code.png)
-
-### 📊 Sample Salary Report  
-![Salary Report](salary_report.png)
-
-> *(Replace image filenames with your actual uploaded files)*
 
 ---
 
