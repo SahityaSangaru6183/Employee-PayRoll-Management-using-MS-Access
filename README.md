@@ -6,16 +6,16 @@ This project is a **Microsoft Access-based Salary Management System** that helps
 
 ## 📌 Features
 
-- 🔐 User-friendly interface with Access Forms
-- 📋 Manage Employee Details (Name, Job Title, Department, Status)
-- 💰 Salary Calculation & Status Tracking
-- 📅 Track Hire Dates and Employment Status (Working/Old)
-- 📊 Salary Reports for HR/Admin Review
+- 🔐 User-friendly interface with Access Forms  
+- 📋 Manage Employee Details (Name, Job Title, Department, Status)  
+- 💰 Salary Calculation & Status Tracking  
+- 📅 Track Hire Dates and Employment Status (Working/Old)  
+- 📊 Salary Reports for HR/Admin Review  
 - 🧠 VBA Code integrated to automate tasks like:
-  - Adding new employee records
-  - Calculating salary components
-  - Navigating records with buttons
-  - Generating custom messages and validations
+  - Adding new employee records  
+  - Calculating salary components  
+  - Navigating records with buttons  
+  - Generating custom messages and validations  
 
 ---
 
@@ -29,24 +29,34 @@ This project is a **Microsoft Access-based Salary Management System** that helps
 
 ## 🛠️ Technologies Used
 
-- Microsoft Access `.accdb`
-- VBA (Visual Basic for Applications)
-- SQL Queries in Access
-- MS Access Forms and Subforms
+- Microsoft Access `.accdb`  
+- VBA (Visual Basic for Applications)  
+- SQL Queries in Access  
+- MS Access Forms and Subforms  
 
 ---
 
 ## 📂 File Structure
+
+/Salary DataBase.accdb
+├── Tables
+│ └── Employees
+├── Forms
+│ └── EmployeeForm, SalaryForm
+├── Queries
+│ └── Salary Reports, Filtered Lists
+├── VBA Modules
+│ └── AddRecord, Navigation, Validations
 
 
 ---
 
 ## 🧪 How to Use
 
-1. Open the `Salary DataBase.accdb` file in **MS Access (2016 or later)**.
-2. Navigate to the **main form** to add/view employee details.
-3. Use command buttons to perform actions (add, save, delete records).
-4. View salary reports by running predefined **queries or reports**.
+1. Open the `Salary DataBase.accdb` file in **MS Access (2016 or later)**.  
+2. Navigate to the **main form** to add/view employee details.  
+3. Use command buttons to perform actions (add, save, delete records).  
+4. View salary reports by running predefined **queries or reports**.  
 
 ---
 
@@ -56,9 +66,18 @@ Ideal for HR teams, small businesses, or educational demonstrations needing a **
 
 ---
 
-## 📸 Screenshot (Optional)
+## 📸 Screenshots
 
-*Add a screenshot of your main form or report here*
+### 🖥️ Main Employee Form  
+![Employee Form](form_view.png)
+
+### 💻 VBA Code Module  
+![VBA Code](vba_code.png)
+
+### 📊 Sample Salary Report  
+![Salary Report](salary_report.png)
+
+> *(Replace image filenames with your actual uploaded files)*
 
 ---
 
@@ -70,5 +89,5 @@ This project is for **educational/demo purposes**. Feel free to modify and use i
 
 ## 🙋‍♂️ Author
 
-**[Sahitya Sangaru]**  
-Email: sahityasangarau@gmail.com
+**Sahitya Sangaru**  
+📧 Email: sahityasangarau@gmail.com
